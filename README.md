@@ -2,7 +2,8 @@
 
 - hyprland
 - waybar
-- rofi-wayland
+- ~~rofi-wayland~~
+- fuzzel
 - ghostty
 - swaybg
 - hypridle
