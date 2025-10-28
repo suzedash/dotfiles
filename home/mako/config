@@ -1,0 +1,11 @@
+max-history=5
+width=400
+height=200
+sort=-time
+background-color=#3c377acc
+padding=6
+border-radius=10
+border-color=#cba6f7
+default-timeout=10000
+max-icon-size=50
+icon-border-radius=10
